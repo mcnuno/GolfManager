@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GolfManager", "GolfManager\GolfManager.csproj", "{D9EF89D8-1DCE-4C8A-A99F-B1F3371BD786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfManagerTest", "GolfManagerTest\GolfManagerTest.csproj", "{DDDAA6D2-5C7A-4172-92F0-C957E0481E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EF89D8-1DCE-4C8A-A99F-B1F3371BD786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EF89D8-1DCE-4C8A-A99F-B1F3371BD786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EF89D8-1DCE-4C8A-A99F-B1F3371BD786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EF89D8-1DCE-4C8A-A99F-B1F3371BD786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDAA6D2-5C7A-4172-92F0-C957E0481E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDAA6D2-5C7A-4172-92F0-C957E0481E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDAA6D2-5C7A-4172-92F0-C957E0481E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDAA6D2-5C7A-4172-92F0-C957E0481E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33A439D0-CE33-4537-A61D-EBD971D084EF}
+	EndGlobalSection
+EndGlobal
